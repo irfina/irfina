@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @irfina
-- 👀 I’m interested in software design and architecture.
-- 🌱 I’m currently learning to incorporate DDD and clean architecture in our projects.
+- 👋 Hi, I’m Irfin
+- 👀 I’m interested in software design and architecture
+- 🌱 I use UML to design OO program ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
